@@ -173,7 +173,7 @@ class Menu:
             self.console.print(f'\n\n\n\n\t\t[red]Incorrecto!!![/]\n\tRespondiste {self.correctas} preguntas correctas\n\n\n\n')
             quit()
     
-    def volver_menu(self):
+    def volver_menu(self):#Menu para elegir si volver al menu principal o salir del juego
         volver = ['Si','No']
         volver_menu=TerminalMenu(volver,title='¿Desea volver al Menu Principal?', menu_cursor_style=('fg_green','bold'), menu_cursor='>> ')
             

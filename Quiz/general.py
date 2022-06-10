@@ -1,3 +1,4 @@
+#Preguntas de cultura general
 preguntas = [
     '¿Cuántos lados tiene un heptágono?',
     '¿Cuál es el río más largo del mundo?',

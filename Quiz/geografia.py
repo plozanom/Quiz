@@ -1,3 +1,4 @@
+#Preguntas de geografía
 preguntas = [
     '¿Cuál es el país más pequeño del mundo?',
     '¿Qué país es el más grande del mundo?',

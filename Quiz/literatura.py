@@ -1,3 +1,4 @@
+#Preguntas de literatura
 preguntas = [
     '¿Cuántas formas literarias hay?',
     '¿Qué novela de Víctor Hugo ha sido llevada al teatro musical con mucho éxito?',

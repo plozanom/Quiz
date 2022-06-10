@@ -1,3 +1,4 @@
+#Modulo para la creacion, actualizacion y visualizacion de las puntuaciones
 import csv
 import pathlib
 

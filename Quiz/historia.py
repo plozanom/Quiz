@@ -1,3 +1,4 @@
+#Prefuntas de historia
 preguntas = [
     '¿En qué año cayó el muro de Berlín?',
     '¿Cuántos años duró la Segunda Guerra Mundial?',
